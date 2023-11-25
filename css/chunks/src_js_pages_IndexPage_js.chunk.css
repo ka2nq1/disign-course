@@ -1781,7 +1781,6 @@
     margin-left: -3rem;
     -webkit-transform: translate(-2rem, -3rem);
     transform: translate(-2rem, -3rem);
-    width: max(60vw, 42.8rem)
 }
 
 .speakers__col_info {
@@ -1852,7 +1851,6 @@
 .speakers__card_img {
     height: auto;
     margin-left: -4.5rem;
-    width: max(50vw, 42.8rem)
 }
 
 .speakers__card_title {
