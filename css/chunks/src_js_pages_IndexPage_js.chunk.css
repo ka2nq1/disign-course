@@ -818,6 +818,7 @@
 }
 
 .program__item_title {
+    cursor: pointer;
     font-size: 3rem;
     padding: 3.4rem 5.7rem 2.4rem var(--program_indent)
 }
