@@ -132,10 +132,7 @@
 						triggers: document.querySelectorAll(".programAcc"),
 						activeStateName: "program__item--active-mod"
 					});
-					window.innerWidth < 1024 && s && (a || (t.init(), a = !0), e instanceof Object && e.destroy(), s = !1, c = !0), window.innerWidth > 1024 && c && (t.disable(), e instanceof Object && (e = new(l())(".program__list", {
-						itemSelector: ".program__item",
-						horizontalOrder: !0
-					})), s = !0, c = !1)
+					(a || (t.init(), a = !0), e instanceof Object && e.destroy(), s = !1, c = !0)
 				};
 				u(), window.addEventListener("resize", (function() {
 					u()
